@@ -1,0 +1,106 @@
+Dla sinusa
+Metoda Picarda:
+Wartosc x=0.5
+i= 0, wartosc przyblizona = 0.0155438, residuum=0.0155287, estymator bledu=0.484456
+i= 1, wartosc przyblizona = 1.51005e-005, residuum=1.51005e-005, estymator bledu=0.0155287
+i= 2, wartosc przyblizona = 1.42516e-011, residuum=1.42516e-011, estymator bledu=1.51005e-005
+
+
+Metoda Bisekcji:
+i= 0, a= -0.5, b= 0.9, srodek_przedzialu= 0.2,estymator= 0.7, reziduum= 0.197502
+i= 1, a= -0.5, b= 0.2, srodek_przedzialu= -0.15,estymator= 0.35, reziduum= 0.151406
+i= 2, a= -0.15, b= 0.2, srodek_przedzialu= 0.025,estymator= 0.175, reziduum= 0.0249609
+i= 3, a= -0.15, b= 0.025, srodek_przedzialu= -0.0625,estymator= 0.0875, reziduum= 0.0627441
+i= 4, a= -0.0625, b= 0.025, srodek_przedzialu= -0.01875,estymator= 0.04375, reziduum= 0.018772
+i= 5, a= -0.01875, b= 0.025, srodek_przedzialu= 0.003125,estymator= 0.021875, reziduum= 0.00312439
+i= 6, a= -0.01875, b= 0.003125, srodek_przedzialu= -0.0078125,estymator= 0.0109375, reziduum= 0.00781631
+i= 7, a= -0.0078125, b= 0.003125, srodek_przedzialu= -0.00234375,estymator= 0.00546875, reziduum= 0.00234409
+i= 8, a= -0.00234375, b= 0.003125, srodek_przedzialu= 0.000390625,estymator= 0.00273437, reziduum= 0.000390615
+i= 9, a= -0.00234375, b= 0.000390625, srodek_przedzialu= -0.000976562,estymator= 0.00136719, reziduum= 0.000976622
+i= 10, a= -0.000976562, b= 0.000390625, srodek_przedzialu= -0.000292969,estymator= 0.000683594, reziduum= 0.000292974
+i= 11, a= -0.000292969, b= 0.000390625, srodek_przedzialu= 4.88281e-005,estymator= 0.000341797, reziduum= 4.8828e-005
+i= 12, a= -0.000292969, b= 4.88281e-005, srodek_przedzialu= -0.00012207,estymator= 0.000170898, reziduum= 0.000122071
+i= 13, a= -0.00012207, b= 4.88281e-005, srodek_przedzialu= -3.66211e-005,estymator= 8.54492e-005, reziduum= 3.66212e-005
+
+i= 14, a= -3.66211e-005, b= 4.88281e-005, srodek_przedzialu= 6.10352e-006,estymator= 4.27246e-005, reziduum= 6.10351e-00
+6
+i= 15, a= -3.66211e-005, b= 6.10352e-006, srodek_przedzialu= -1.52588e-005,estymator= 2.13623e-005, reziduum= 1.52588e-0
+05
+i= 16, a= -1.52588e-005, b= 6.10352e-006, srodek_przedzialu= -4.57764e-006,estymator= 1.06812e-005, reziduum= 4.57764e-0
+06
+i= 17, a= -4.57764e-006, b= 6.10352e-006, srodek_przedzialu= 7.62939e-007,estymator= 5.34058e-006, reziduum= 7.62939e-00
+7
+i= 18, a= -4.57764e-006, b= 7.62939e-007, srodek_przedzialu= -1.90735e-006,estymator= 2.67029e-006, reziduum= 1.90735e-0
+06
+i= 19, a= -1.90735e-006, b= 7.62939e-007, srodek_przedzialu= -5.72205e-007,estymator= 1.33514e-006, reziduum= 5.72205e-0
+07
+i= 20, a= -5.72205e-007, b= 7.62939e-007, srodek_przedzialu= 9.53674e-008,estymator= 6.67572e-007, reziduum= 9.53674e-00
+8
+i= 21, a= -5.72205e-007, b= 9.53674e-008, srodek_przedzialu= -2.38419e-007,estymator= 3.33786e-007, reziduum= 2.38419e-0
+07
+i= 22, a= -2.38419e-007, b= 9.53674e-008, srodek_przedzialu= -7.15256e-008,estymator= 1.66893e-007, reziduum= 7.15256e-0
+08
+i= 23, a= -7.15256e-008, b= 9.53674e-008, srodek_przedzialu= 1.19209e-008,estymator= 8.34465e-008, reziduum= 1.19209e-00
+8
+i= 24, a= -7.15256e-008, b= 1.19209e-008, srodek_przedzialu= -2.98023e-008,estymator= 4.17233e-008, reziduum= 2.98023e-0
+08
+i= 25, a= -2.98023e-008, b= 1.19209e-008, srodek_przedzialu= -8.9407e-009,estymator= 2.08616e-008, reziduum= 8.9407e-009
+
+
+
+Metoda Newtona
+i= 0, x1= -0.00539196, estymator= 0.294608, reziduum=0.00539377
+i= 1, x1= -1.81585e-006, estymator= 0.00539014, reziduum=1.81585e-006
+i= 2, x1= -2.06082e-013, estymator= 1.81585e-006, reziduum=2.06082e-013
+
+
+Metoda Siecznych
+x0=-0.5, x1=0.6
+i= 0, x2=0.0187449, estymator= 0.581255, reziduum=0.0187229
+i= 1, x2=-0.000725349, estymator= 0.0194702, reziduum=0.000725382
+i= 2, x2=8.50739e-007, estymator= 0.000726199, reziduum=8.50739e-007
+i= 3, x2=3.85659e-011, estymator= 8.507e-007, reziduum=3.85659e-011
+Dla tangensa
+Metoda Picarda:
+rozbieznosc!. pierwiastek nie zostanie przyblizony
+
+Metoda Bisekcji:
+i= 0, a= 0.4, b= 0.5, srodek_przedzialu= 0.45,estymator= 0.05, reziduum= 0.189842
+i= 1, a= 0.45, b= 0.5, srodek_przedzialu= 0.475,estymator= 0.025, reziduum= 0.0766174
+i= 2, a= 0.475, b= 0.5, srodek_przedzialu= 0.4875,estymator= 0.0125, reziduum= 0.0125374
+i= 3, a= 0.4875, b= 0.5, srodek_przedzialu= 0.49375,estymator= 0.00625, reziduum= 0.0216543
+i= 4, a= 0.4875, b= 0.49375, srodek_przedzialu= 0.490625,estymator= 0.003125, reziduum= 0.00436949
+i= 5, a= 0.4875, b= 0.490625, srodek_przedzialu= 0.489062,estymator= 0.0015625, reziduum= 0.00413044
+i= 6, a= 0.489062, b= 0.490625, srodek_przedzialu= 0.489844,estymator= 0.00078125, reziduum= 0.000107811
+i= 7, a= 0.489062, b= 0.489844, srodek_przedzialu= 0.489453,estymator= 0.000390625, reziduum= 0.00201423
+i= 8, a= 0.489453, b= 0.489844, srodek_przedzialu= 0.489648,estymator= 0.000195313, reziduum= 0.00095394
+i= 9, a= 0.489648, b= 0.489844, srodek_przedzialu= 0.489746,estymator= 9.76562e-005, reziduum= 0.000423247
+i= 10, a= 0.489746, b= 0.489844, srodek_przedzialu= 0.489795,estymator= 4.88281e-005, reziduum= 0.000157764
+i= 11, a= 0.489795, b= 0.489844, srodek_przedzialu= 0.489819,estymator= 2.44141e-005, reziduum= 2.49877e-005
+i= 12, a= 0.489819, b= 0.489844, srodek_przedzialu= 0.489832,estymator= 1.2207e-005, reziduum= 4.14089e-005
+i= 13, a= 0.489819, b= 0.489832, srodek_przedzialu= 0.489825,estymator= 6.10352e-006, reziduum= 8.20985e-006
+i= 14, a= 0.489819, b= 0.489825, srodek_przedzialu= 0.489822,estymator= 3.05176e-006, reziduum= 8.38912e-006
+i= 15, a= 0.489822, b= 0.489825, srodek_przedzialu= 0.489824,estymator= 1.52588e-006, reziduum= 8.96766e-008
+i= 16, a= 0.489824, b= 0.489825, srodek_przedzialu= 0.489825,estymator= 7.62939e-007, reziduum= 4.06008e-006
+i= 17, a= 0.489824, b= 0.489825, srodek_przedzialu= 0.489824,estymator= 3.8147e-007, reziduum= 1.9852e-006
+i= 18, a= 0.489824, b= 0.489824, srodek_przedzialu= 0.489824,estymator= 1.90735e-007, reziduum= 9.4776e-007
+i= 19, a= 0.489824, b= 0.489824, srodek_przedzialu= 0.489824,estymator= 9.53674e-008, reziduum= 4.29041e-007
+i= 20, a= 0.489824, b= 0.489824, srodek_przedzialu= 0.489824,estymator= 4.76837e-008, reziduum= 1.69682e-007
+i= 21, a= 0.489824, b= 0.489824, srodek_przedzialu= 0.489824,estymator= 2.38419e-008, reziduum= 4.00028e-008
+i= 22, a= 0.489824, b= 0.489824, srodek_przedzialu= 0.489824,estymator= 1.19209e-008, reziduum= 2.48369e-008
+
+
+Metoda Newtona
+i= 0, x1= 0.531692, estymator= 0.0683078, reziduum=0.26698
+i= 1, x1= 0.495954, estymator= 0.0357381, reziduum=0.0340792
+i= 2, x1= 0.489956, estymator= 0.00599774, reziduum=0.000720441
+i= 3, x1= 0.489824, estymator= 0.000132331, reziduum=3.36288e-007
+i= 4, x1= 0.489824, estymator= 6.18272e-008, reziduum=7.31637e-014
+
+
+Metoda Siecznych
+x0=0.4, x1=0.5
+i= 0, x2=0.48658, estymator= 0.0134203, reziduum=0.0174459
+i= 1, x2=0.489708, estymator= 0.00312782, reziduum=0.000632685
+i= 2, x2=0.489825, estymator= 0.0001177, reziduum=7.24572e-006
+i= 3, x2=0.489824, estymator= 1.33268e-006, reziduum=2.97428e-009
