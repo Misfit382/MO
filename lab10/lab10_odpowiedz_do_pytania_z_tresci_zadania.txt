@@ -1,0 +1,1 @@
+wykres metody Stabilnej i nie stablinej różni się tym że dla delta t < 1/10 metoda jest niestabilna co powoduje nieoczekiwane wartości
